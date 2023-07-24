@@ -1,0 +1,21 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  /* background-image: url("assets/clear"); */
+  background-repeat: no-repeat;
+  align-content: center;
+  background-position: center center;
+}
+#heading {
+  background-color: white;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 15px;
+}
+#credits {
+  text-align: end;
+  padding: 10px;
+  font-size: small;
+  font-weight: bold;
+}
